@@ -1,1 +1,0 @@
-# qc-camp-comic-starter
