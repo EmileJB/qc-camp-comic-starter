@@ -1,0 +1,53 @@
+.panel {
+  background-color:#363A3F;
+  border:2px solid black;
+  width:48%;
+  aspect-ratio:1/1;
+  display:inline-block;
+  position:relative;
+  padding:0px;
+}
+
+#meeting {
+  width:100%;
+  top:20%;
+}
+
+img {
+  position:absolute;
+}
+
+#red_image {
+  height:50%;
+  bottom:20%;
+}
+
+#green_image {
+  height:50%;
+  bottom:20%;
+}
+
+#red {
+  position:absolute;
+  background-color:darkslategray;
+  color:red;
+  bottom:0%;
+  width:100%;
+  font-size:20px;
+  font-family:"Courier New", monospace;
+}
+
+#green {
+  position:absolute;
+  background-color:darkslategray;
+  color:green;
+  bottom:0%;
+  width:100%;
+  font-size:20px;
+  font-family:"Courier New", monospace;
+}
+
+#ejected {
+  width:100%;
+  height:100%;
+}
